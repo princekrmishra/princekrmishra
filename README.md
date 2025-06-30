@@ -9,7 +9,7 @@
 
 ---
 
-## 📄 Resume
+<h3 align="center">📄 Resume</h3>
 
 <p align="center">
   📑 <a href="https://drive.google.com/file/d/1J2kXVT3Kb4KxpeOswqD990-khrzL4tBF/view" target="_blank"><strong>Click here to view my Resume</strong></a>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princekrmishra&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&title=Languages,Commits,Repositories,Followers,PullRequest,Stars,Issues,Reviews,Experience" alt="GitHub Trophies" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔭 Currently Working On
+<h3 align="center">🔭 Currently Working On</h3>
 
 <p align="center">
   🚀 <a href="https://github.com/princekrmishra/E-Commerce-Website-MERN" target="_blank">Mishra Mart – E-Commerce Website (MERN)</a>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🌱 Currently Learning
+<h3 align="center">🌱 Currently Learning</h3>
 
 <p align="center">
   📚 Data Structures & Algorithms <br />
@@ -43,7 +43,7 @@
 
 ---
 
-## 💬 Ask Me About
+<h3 align="center">💬 Ask Me About</h3>
 
 <p align="center">
   Programming: <code>C++</code>, <code>DSA</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code><br />
@@ -52,7 +52,7 @@
 
 ---
 
-## 📫 Contact Me
+<h3 align="center"> 📫 Contact Me</h3>
 
 <p align="center">
   📧 <a href="mailto:kmishraprince@gmail.com">kmishraprince@gmail.com</a>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🏅 Recent Achievements
+<h3 align="center">🏅 Recent Achievements</h3>
 
 <p align="center">
   📰 Published: <em>Blockchain Technology for Enhancing Transparency and Efficiency in Supply Chain Management</em><br />
@@ -71,7 +71,7 @@
 
 ---
 
-## 🔗 Connect With Me
+<h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
   <a href="https://twitter.com/kprincemishra"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30" /></a>
@@ -83,7 +83,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -101,7 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekrmishra&layout=compact&theme=light" />
@@ -113,7 +113,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+<h3 align="center">📈 GitHub Activity Graph</h3>
 
 <p align="center">
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=princekrmishra&theme=github-light&hide_border=true" />
@@ -121,8 +121,4 @@
 
 ---
 
-## 🌍 Visitor Badge
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=princekrmishra&label=Visitors&color=12&icon=5&pretty=true" />
-</p>
